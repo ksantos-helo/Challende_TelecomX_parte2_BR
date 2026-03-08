@@ -304,7 +304,7 @@ Google Colab
 
 VS Code
 
-📈 Possíveis Melhorias Futuras
+## 📈 Possíveis Melhorias Futuras
 
 Implementar modelos mais avançados:
 
@@ -322,6 +322,6 @@ Construir dashboard interativo
 
 Implantar modelo em API de previsão
 
-👨‍💻 Autor
+## 👨‍💻 Autor
 
 Projeto desenvolvido para fins de estudo e prática de Machine Learning aplicado à previsão de churn de clientes.
