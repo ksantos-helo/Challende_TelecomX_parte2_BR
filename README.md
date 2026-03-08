@@ -228,7 +228,7 @@ A análise de importância das variáveis permite identificar quais fatores têm
 
 Mostram a influência de cada variável no modelo.
 
-![Coeficientes Regressão Logística](images/logistic_coefficients.png)
+![Coeficientes Regressão Logística](images/Variaveis_Regressao_Logistica.png)
 
 ---
 
@@ -236,7 +236,7 @@ Mostram a influência de cada variável no modelo.
 
 Indica quais variáveis foram mais relevantes nas decisões do modelo.
 
-![Importância das Variáveis](images/tree_feature_importance.png)
+![Importância das Variáveis](images/Variaveis_Arvore_Decisao.png)
 
 ---
 
